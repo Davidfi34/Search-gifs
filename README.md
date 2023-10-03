@@ -1,9 +1,14 @@
-# GifsApp
+# 🚀 GifsApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+The web application uses Angular 🅰️ and the Giphy REST API 🌐 to function as a GIF and video search tool (https://developers.giphy.com/). Users enter their search query 🔍, and the application displays related results. GIFs and videos are presented as thumbnails 🖼️ and can be viewed in full size or played ▶️. Users can also share the results on social media 📲.
+
 
 ![imagen](https://github.com/Davidfi34/Search-gifs/assets/46968835/1675d45f-304e-4ba5-9e7f-5b8ac0bdd172)
 
+
+* Link: https://64aca92812112914b5277568--sunny-syrniki-2d8168.netlify.app/
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
 
 ## Development server
 
