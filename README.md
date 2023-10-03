@@ -8,11 +8,11 @@ The web application uses Angular 🅰️ and the Giphy REST API 🌐 to function
 
 ### Built With
 
-* [![Angular][Angular.io]][Angular-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [Angular](https://angular.io) ![Angular Logo](url_de_la_imagen_angular)
+* [Bootstrap](https://getbootstrap.com) ![Bootstrap Logo](url_de_la_imagen_bootstrap)
 
-* 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
+
 
 <!-- CONTACT -->
 ## Contact
